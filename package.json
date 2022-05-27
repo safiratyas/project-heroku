@@ -1,0 +1,9 @@
+{
+  "name": "binar-sme-chapter-08-topic-05-example-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
