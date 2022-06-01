@@ -3,7 +3,7 @@ const { PORT = 8080 } = process.env;
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("Hello Ariawan");
+  res.send("Check Project Heroku");
 });
 
 app.listen(PORT);
